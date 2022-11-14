@@ -1,6 +1,6 @@
-#Formal Specifications
-##Using (Petri net) to formally specify the following system :
-###We have to keep an eye on the following ***rules*** :
+# Formal Specifications
+## Using (Petri net) to formally specify the following system :
+### We have to keep an eye on the following ***rules*** :
 
 -The traffic lights must work with the *order* mentioned in the picture.
 -The two traffic lights at lane 1 can be *green* and the rest are *red*.
@@ -15,7 +15,7 @@
 
 ![ptrinet bayan](https://user-images.githubusercontent.com/98769413/201651648-e3cce951-5876-406b-8200-584b46e7f59c.jpg)
 
-###Team Name:
+### Team Name:
 Hessa mauither (class 2983)
 Bayan Alghasham (class 2983)
 
