@@ -13,7 +13,7 @@
 
 ![ptri net](https://user-images.githubusercontent.com/98769413/201651623-e499a6c1-cb9b-422f-b8bf-39d9635c302c.jpg)
 
-*** https://apo.adrian-jagusch.de/#!/Sample%20Net ***
+***https://apo.adrian-jagusch.de/#!/Sample%20Net***
 
 ### Team Name:
 Hessa mauither (class 2983)
