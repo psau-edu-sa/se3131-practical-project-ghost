@@ -13,11 +13,9 @@
 
 ![ptri net](https://user-images.githubusercontent.com/98769413/201651623-e499a6c1-cb9b-422f-b8bf-39d9635c302c.jpg)
 
-![ptrinet bayan](https://user-images.githubusercontent.com/98769413/201651648-e3cce951-5876-406b-8200-584b46e7f59c.jpg)
 
 ### Team Name:
 Hessa mauither (class 2983)
 
-Bayan Alghasham (class 2983)
 
 
